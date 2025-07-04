@@ -13,5 +13,5 @@ A classic **Snake Game** built using **Java** with basic graphics and keyboard c
 - Language: **Java**
 - IDE: **Visual Studio Code / IntelliJ IDEA / Eclipse**
 - Tools: Java AWT & Swing for UI rendering
-- 
+  
 ![WhatsApp Image 2025-07-04 at 1 44 20 PM](https://github.com/user-attachments/assets/a6e3ceb5-26ff-4a92-8f1b-0b9fd6d9a027)
